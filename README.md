@@ -13,7 +13,7 @@ Performed network scanning and vulnerability assessment on Metasploitable using 
 ### 🔹 Aggressive Scan (-A)
 Provides detailed information including OS detection, services, and scripts.
 
-![Aggressive Scan](aggressive_scan.png)
+![Aggressive Scan](aggressive_scan .png)
 
 ---
 
